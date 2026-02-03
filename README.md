@@ -2,4 +2,4 @@
   
 Usage: run_hcc.py  
   
-Purpose: To detect HCC early in ultrasound images using a deep convolutional autoencoder.  
+Purpose: To detect HCC early in ultrasound images using a self-learning and generative deep convolutional autoencoder.  
