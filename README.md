@@ -1,5 +1,5 @@
-# testy
+# HeptoCellular Carcinoma (HCC) early detection
   
-Just a plain test readme!  
+Usage: run_hcc.py  
   
-Yay!  
+Purpose: To detect HCC early in ultrasound images using a deep convolutional autoencoder.  
